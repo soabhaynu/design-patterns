@@ -8,7 +8,7 @@ A **design pattern** is a reusable solution to a recurring design problem you ru
 If you’ve used the same kind of structure in multiple projects (for example: “one shared instance”, “wrap behavior without changing callers”, “select an algorithm at runtime”), that’s usually a pattern in disguise.
 
 ## Why learn design patterns?
-For an experienced engineer, patterns are useful because they:
+Patterns are useful because they:
 1. Speed up design by reusing “known good” structures.
 2. Improve communication (pattern names act like shorthand in reviews).
 3. Make trade-offs explicit (flexibility vs complexity, coupling vs performance).
